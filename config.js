@@ -36,7 +36,7 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'espere unos minutos'
-global.packname = 'toma tu sticker'
+global.packname = 'toma tu sticke'
 global.author = '© The whatbot420-MD'
 
 //=============『 Apikey 』================== //
