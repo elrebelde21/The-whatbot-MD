@@ -38,7 +38,7 @@ global.wait = '_*espere unos minutos...*_'
 global.eror = '_*erro de servidor*_'
 global.benar = 'correcta ✅\n'
 global.salah = 'incorecta ❌\n'
-global.stiker_wait = '𝙲𝚛𝚎𝚊𝚗𝚍𝚘 𝚜𝚝𝚒𝚌𝚔𝚎𝚛...'
+global.stiker_wait = '𝙲𝚛𝚎𝚊𝚗𝚍𝚘 𝚜𝚝𝚒𝚌𝚔𝚎𝚛....'
 global.packname = 'Toma tu sticker'
 global.author = '© 𝚃𝙷𝙴 𝚆𝙷𝙰𝚃𝙱𝙾𝚃-𝙼𝙳'
 
