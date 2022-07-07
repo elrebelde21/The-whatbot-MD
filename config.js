@@ -83,7 +83,7 @@ global.APIKeys = { // APIKey Here
   'https://api.lolhuman.xyz': 'Deffbotz',
 }
 
-//=============『 JUEGOS | GAMES 』================== //
+//=============『 JUEGOS | GAME 』================== //
 global.multiplier = 69 // Cuanto más alto, más difícil subir de nivel
 global.rpg = {
   emoticon(string) {
